@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calc4Life/1.0.0": {
+        "runtime": {
+          "Calc4Life.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calc4Life/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
