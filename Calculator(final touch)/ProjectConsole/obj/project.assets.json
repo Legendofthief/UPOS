@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m_alex\\Desktop\\Calculator\\Calculator\\ProjectConsole\\ProjectConsole.csproj",
+      "projectUniqueName": "C:\\Users\\m_alex\\Desktop\\UPOS\\Calculator(final touch)\\ProjectConsole\\ProjectConsole.csproj",
       "projectName": "ProjectConsole",
-      "projectPath": "C:\\Users\\m_alex\\Desktop\\Calculator\\Calculator\\ProjectConsole\\ProjectConsole.csproj",
+      "projectPath": "C:\\Users\\m_alex\\Desktop\\UPOS\\Calculator(final touch)\\ProjectConsole\\ProjectConsole.csproj",
       "packagesPath": "C:\\Users\\m_alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m_alex\\Desktop\\Calculator\\Calculator\\ProjectConsole\\obj\\",
+      "outputPath": "C:\\Users\\m_alex\\Desktop\\UPOS\\Calculator(final touch)\\ProjectConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m_alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
